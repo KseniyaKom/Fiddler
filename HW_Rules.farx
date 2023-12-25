@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<AutoResponder RulesVersion="2" LastSave="2023-04-10T18:14:48.6250456+03:00" FiddlerVersion="5.0.1.0">
+<AutoResponder RulesVersion="2" LastSave="2023-11-10T18:14:48.6250456+03:00" FiddlerVersion="5.0.1.0">
   <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
     <ResponseGroup Id="d017d22b-597b-4f95-9f42-d38a0cea863a" Priority="3" Header="Ex 3" Enabled="true" />
     <ResponseGroup Id="a14cbfa0-9db3-4ff8-9be6-45477b98e70f" Priority="4" Header="Ex 4" Enabled="true" />
